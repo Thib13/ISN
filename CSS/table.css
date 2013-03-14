@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+td
+{
+	border: 1px solid #CCC;
+	width: 140px;
+	text-align:center;
+	height: 50px;
+}
+table
+{
+	margin-top: 20px;
+	border-collapse: collapse;
+	background-color: #FFF;
+	display: inline-block;
+	vertical-align: top;
+}
